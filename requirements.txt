@@ -1,0 +1,4 @@
+Fastapi
+requests
+uvicorn
+user-agent
